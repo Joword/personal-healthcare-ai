@@ -1,9 +1,10 @@
 /*
  * @Author: joword 23089538@qq.com
- * @Date: 2024-08-20 21:43:40
- * @LastEditTime: 2024-08-20 23:19:38
- * @FilePath: \personal-healthcare-ai\src\main.cpp
- * @Description: opencv to recognize a jpeg
+ * @Date: 2024-08-25 12:35:08
+ * @LastEditors: joword 23089538@qq.com
+ * @LastEditTime: 2024-08-25 12:35:52
+ * @FilePath: \personal-healthcare-ai\main.cpp
+ * @Description: test demo
  */
 #include <opencv2/opencv.hpp>
 #include <iostream>
