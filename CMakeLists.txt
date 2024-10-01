@@ -8,7 +8,7 @@ set(OpenCV_DIR "D:/Software/cmake/lib/opencv/opencv/build/x64/vc16/lib")
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE})
 
-add_executable(personal-healthcare-ai ${SOURCES})
+add_executable(personal-healthcare-ai src/${SOURCES})
 
 
 target_link_libraries(personal-healthcare-ai ${OpenCV_LIB})
